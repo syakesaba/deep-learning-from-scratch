@@ -102,6 +102,8 @@ def load_mnist(normalize=True, flatten=True, one_hot_label=False):
     -------
     (訓練画像, 訓練ラベル), (テスト画像, テストラベル)
     """
+    print(dataset_dir)
+    print(save_file)
     if not os.path.exists(save_file):
         init_mnist()
         
