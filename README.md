@@ -1,4 +1,13 @@
 # ゼロから作る Deep Learning
+syakesabaの勉強用ノートのリポジトリ。
+それぞれのチャプターに合わせてipynbファイルを作成し
+JupyterNotebookで実際にコードを動かしてグラフを出したりしてます。
+  
+以下、オリジナルの方のREADME.md
+---
+
+
+# ゼロから作る Deep Learning
 
 ---
 
